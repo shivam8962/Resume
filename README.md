@@ -1,2 +1,3 @@
 # Resume
-Simple Resume using Html
+Resume Page using Html/Css
+
